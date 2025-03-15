@@ -18,8 +18,6 @@ To ensure Early Hints are enabled on your zone:
 - Enable the Early Hints toggle to on.
 
 
-
-
 ## Prerequisites
 
 Ensure you have following:
